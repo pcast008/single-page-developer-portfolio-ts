@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "years": "4 Years Experience"
+    },
+    {
+      "name": "CSS",
+      "years": "4 Years Experience"
+    },
+    {
+      "name": "Javascript",
+      "years": "4 Years Experience"
+    },
+    {
+      "name": "Accessibility",
+      "years": "4 Years Experience"
+    },
+    {
+      "name": "React",
+      "years": "3 Years Experience"
+    },
+    {
+      "name": "Sass",
+      "years": "3 Years Experience"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Design Portfolio",
+      "skills": ["HTML", "CSS"],
+      "image": "../src/assets/images/thumbnail-project-1-large.webp"
+    },
+    {
+      "title": "E-Learning Landing Page",
+      "skills": ["HTML", "CSS"],
+      "image": "../src/assets/images/thumbnail-project-2-large.webp"
+    },
+    {
+      "title": "Todo Web App",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "image": "../src/assets/images/thumbnail-project-3-large.webp"
+    },
+    {
+      "title": "Entertainment Web App",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "image": "../src/assets/images/thumbnail-project-4-large.webp"
+    },
+    {
+      "title": "Memory Game",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "image": "../src/assets/images/thumbnail-project-5-large.webp"
+    },
+    {
+      "title": "Art Gallery Showcase",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "image": "../src/assets/images/thumbnail-project-6-large.webp"
+    }
+  ]
+}
