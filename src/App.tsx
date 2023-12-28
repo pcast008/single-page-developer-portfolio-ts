@@ -1,5 +1,5 @@
 import { Navbar } from "./Components/Navbar";
-import "./app.css";
+import "./App.css";
 import { Container } from "./Components/Container";
 import { FooterContainer } from "./Components/FooterContainer";
 import { OuterFooterContainer } from "./Components/OuterFooterContainer";
