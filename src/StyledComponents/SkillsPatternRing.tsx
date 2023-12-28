@@ -4,7 +4,7 @@ import patternRing from "../assets/images/pattern-rings.svg";
 export const SkillsPatternRing = styled.div`
   background-image: url(${patternRing});
   width: 33.125rem;
-  height: 100%;
+  height: 8.0625rem;
   position: absolute;
   top: 30.6rem;
   left: 50%;

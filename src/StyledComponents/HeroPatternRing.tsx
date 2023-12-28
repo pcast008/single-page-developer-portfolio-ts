@@ -4,8 +4,7 @@ import patternRing from "../assets/images/pattern-rings.svg";
 export const HeroPatternRing = styled.div`
   background-image: url(${patternRing});
   width: 33.125rem;
-  height: 100%;
-  position: absolute;
+  height: 8.0625rem;
   top: 7.75rem;
   left: -21.5rem;
   background-repeat: no-repeat;

@@ -4,7 +4,7 @@ import patternCircle from "../assets/images/pattern-circle.svg";
 export const HeroPatternCircle = styled.div`
   background-image: url(${patternCircle});
   width: 8.0625rem;
-  height: 100%;
+  height: 8.0625rem;
   position: absolute;
   right: -5rem;
   top: 9.5rem;
