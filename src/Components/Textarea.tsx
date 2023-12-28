@@ -37,7 +37,7 @@ export function Textarea({ textareaProps, showError }: TextareaProps) {
   return (
     <InputContainer $showError={showError}>
       <InputErrorContainer>
-        <StyledTextarea {...textareaProps} />
+        <StyledTextarea {...textareaProps} autoComplete="off" />
         {showError && (
           <i
             className="fa-solid fa-circle-exclamation fa-fade"

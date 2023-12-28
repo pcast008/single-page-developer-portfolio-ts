@@ -37,7 +37,7 @@ export function FormInput({ inputProps, showError }: FormInputProps) {
   return (
     <InputContainer $showError={showError}>
       <InputErrorContainer>
-        <Input {...inputProps} />
+        <Input {...inputProps} autoComplete="off" />
         {showError && (
           <i
             className="fa-solid fa-circle-exclamation fa-fade"
