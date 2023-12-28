@@ -29,32 +29,32 @@
     {
       "title": "Design Portfolio",
       "skills": ["HTML", "CSS"],
-      "image": "../public/images/thumbnail-project-1-large.webp"
+      "image": "/images/thumbnail-project-1-large.webp"
     },
     {
       "title": "E-Learning Landing Page",
       "skills": ["HTML", "CSS"],
-      "image": "../public/images/thumbnail-project-2-large.webp"
+      "image": "/images/thumbnail-project-2-large.webp"
     },
     {
       "title": "Todo Web App",
       "skills": ["HTML", "CSS", "Javascript"],
-      "image": "../public/images/thumbnail-project-3-large.webp"
+      "image": "/images/thumbnail-project-3-large.webp"
     },
     {
       "title": "Entertainment Web App",
       "skills": ["HTML", "CSS", "Javascript"],
-      "image": "../public/images/thumbnail-project-4-large.webp"
+      "image": "/images/thumbnail-project-4-large.webp"
     },
     {
       "title": "Memory Game",
       "skills": ["HTML", "CSS", "Javascript"],
-      "image": "../public/images/thumbnail-project-5-large.webp"
+      "image": "/images/thumbnail-project-5-large.webp"
     },
     {
       "title": "Art Gallery Showcase",
       "skills": ["HTML", "CSS", "Javascript"],
-      "image": "../public/images/thumbnail-project-6-large.webp"
+      "image": "/images/thumbnail-project-6-large.webp"
     }
   ]
 }
