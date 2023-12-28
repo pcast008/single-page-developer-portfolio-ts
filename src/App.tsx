@@ -50,7 +50,7 @@ export default function App() {
   }
 
   return (
-    <>
+    <div style={{ overflowX: "hidden" }}>
       <Container>
         <HeroPatternRing />
         <ProfileImage />
@@ -71,6 +71,6 @@ export default function App() {
           <Navbar />
         </FooterContainer>
       </OuterFooterContainer>
-    </>
+    </div>
   );
 }
