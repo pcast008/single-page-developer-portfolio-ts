@@ -13,8 +13,8 @@ import { FirstDivider } from "./Components/Divider Components/FirstDivider";
 import { SecondDivider } from "./Components/Divider Components/SecondDivider";
 import { ThirdDivider } from "./Components/Divider Components/ThirdDivider";
 import { ProfileImage } from "./StyledComponents/ProfileImage";
-import { HeroPatternRing } from "./StyledComponents/HeroPatternRing";
-import { SkillsPatternRing } from "./StyledComponents/SkillsPatternRing";
+import { HeroPatternRing } from "./Components/HeroPatternRing";
+import { SkillsPatternRing } from "./Components/SkillsPatternRing";
 
 export default function App() {
   const [projects, setProjects] = useState<TProjects>([]);

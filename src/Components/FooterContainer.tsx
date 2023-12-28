@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { ReactNode } from "react";
-import { FooterPatternRing } from "../StyledComponents/FooterPatternRing";
+import { FooterPatternRing } from "./FooterPatternRing";
 
 type FooterContainerProps = {
   children: ReactNode;

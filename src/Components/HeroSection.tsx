@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { Button } from "./Button";
 import { useMediaQuery } from "react-responsive";
-import { HeroPatternCircle } from "../StyledComponents/HeroPatternCircle";
+import { HeroPatternCircle } from "./HeroPatternCircle";
 
 const HeroContainer = styled.div`
   text-align: center;
